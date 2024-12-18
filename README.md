@@ -15,8 +15,8 @@ This project leverages various machine learning techniques to analyze a dataset 
 ## Technologies Used
 * Programming Language: Python
 * Libraries Used:
-** Scikit-learn: For implementing machine learning models.
-** NumPy: For numerical computations.
-** Pandas: For data manipulation and analysis.
-** Seaborn: For visualizing data distributions.
-** Matplotlib: For creating static, interactive, and animated visualizations.
+  * Scikit-learn: For implementing machine learning models.
+  * NumPy: For numerical computations.
+  * Pandas: For data manipulation and analysis.
+  * Seaborn: For visualizing data distributions.
+  * Matplotlib: For creating static, interactive, and animated visualizations.
