@@ -22,6 +22,7 @@ This project leverages various machine learning techniques to analyze a dataset 
   * Matplotlib: For creating static, interactive, and animated visualizations.
 
 ## Dataset
+The dataset was sourced from Kaggle.
 The dataset used contains 14 features, including:
 * Input Features:
   * Age
