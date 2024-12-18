@@ -24,18 +24,18 @@ This project leverages various machine learning techniques to analyze a dataset 
 ## Dataset
 The dataset used contains 14 features, including:
 * Input Features:
- * Age
- * Sex
- * Chest Pain Type
- * Resting Blood Pressure
- * Cholesterol
- * Fasting Blood Sugar
- * Rest ECG
- * Maximum Heart Rate Achieved
- * Exercise-Induced Angina
- * Slope of Peak Exercise ST Segment
- * Number of Major Vessels Colored by Fluoroscopy
- * Thalassemia
+  * Age
+  * Sex
+  * Chest Pain Type
+  * Resting Blood Pressure
+  * Cholesterol
+  * Fasting Blood Sugar
+  * Rest ECG
+  * Maximum Heart Rate Achieved
+  * Exercise-Induced Angina
+  * Slope of Peak Exercise ST Segment
+  * Number of Major Vessels Colored by Fluoroscopy
+  * Thalassemia
 * Target Feature:
- * 1: Presence of heart disease
- * 0: Absence of heart disease
+  * 1: Presence of heart disease
+  * 0: Absence of heart disease
