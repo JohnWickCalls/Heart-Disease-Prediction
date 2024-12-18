@@ -36,6 +36,6 @@ The dataset used contains 14 features, including:
  * Slope of Peak Exercise ST Segment
  * Number of Major Vessels Colored by Fluoroscopy
  * Thalassemia
-*Target Feature:
+* Target Feature:
  * 1: Presence of heart disease
  * 0: Absence of heart disease
